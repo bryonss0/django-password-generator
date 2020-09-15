@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Authored by Nick at zappycode.com, modified by Bryon Severns
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
